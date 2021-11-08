@@ -22,5 +22,3 @@ Les “Big Tech” son les companyies tecnològiques més grans i influents del 
 Tot això ens supera i ha de parar. Necessitem un canvi i el volem des d’ahir.
 
 Per fer aquest canvi efectiu, com a societat, hauriem d’estandarditzar les xarxes socials mitjançant l’adopció massiva del “Fedivers”.
-
-Però, què és el “Fedivers”?
