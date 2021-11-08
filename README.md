@@ -1,6 +1,6 @@
 # La transició digital de veritat
 
-El “Fedivers” permet:
+## El “Fedivers” permet:
 
 •	Fomentar la sobirania i la independència tecnològica.
 •	Minimitzar que les “Big Tech” (Google, Apple, Facebook, Amazon i Microsoft) siguin les companyies que dominen cada aspecte de les nostres vides.
