@@ -8,7 +8,9 @@ Perquè s'entengui fàcil: imagina el correu electrònic, però enlloc de només
 
 ## De què està fet el Fedivers?
 
-HAN
+El Fedivers és una xarxa social, però no té una sola figura, forma, imatge i/o amo. No pertany a ningú, perquè pertany a tothom que participa en ella. Es basa en el mateix concepte d'internet, la descentralització, just el contrari a centralitzar, que és el que han fet les corporacions amb internet: posar tots els ous en la mateixa cistella per a poder esprémer-los millor (internet + capitalisme salvatge = anys 2010-2021 d'ara endavant).
+
+La xarxa social del Fedivers consta de diferent “Programari Web” (webs o plataformes d'internet) que permeten a les persones registrar-se, crear perfils, crear publicacions i interactuar sobre la base d'un ID (identificació) de perfil.
 
 ## El “Fedivers” permet:
 
