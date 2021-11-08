@@ -2,9 +2,11 @@
 
 ## Què és el Fedivers?
 
-El Fedivers és una xarxa social basada en la interconnexió d'infinits dominis d'internet. Perquè s'entengui fàcil: imagina el correu electrònic, però enlloc de només enviar i rebre missatges, pots seguir a persones, posar publicacions en diferents formes (text, imatge, vídeo, àudio), impulsar publicacions, donar likes... Una xarxa social basada en perfils i interacció humana.
+El Fedivers, acrònim de "federació" i "univers", és una xarxa social basada en la interconnexió d'infinits dominis d'internet.
 
-El “Fedivers” permet:
+Perquè s'entengui fàcil: imagina el correu electrònic, però enlloc de només enviar i rebre missatges, pots seguir a persones, posar publicacions en diferents formes (text, imatge, vídeo, àudio), impulsar publicacions, donar likes... Una xarxa social basada en perfils i interacció humana.
+
+#### El “Fedivers” permet:
 
 •	Fomentar la sobirania i la independència tecnològica.
 •	Minimitzar que les “Big Tech” (Google, Apple, Facebook, Amazon i Microsoft) siguin les companyies que dominen cada aspecte de les nostres vides.
