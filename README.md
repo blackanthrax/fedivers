@@ -6,7 +6,11 @@ El Fedivers, acrònim de "federació" i "univers", és una xarxa social basada e
 
 Perquè s'entengui fàcil: imagina el correu electrònic, però enlloc de només enviar i rebre missatges, pots seguir a persones, posar publicacions en diferents formes (text, imatge, vídeo, àudio), impulsar publicacions, donar likes... Una xarxa social basada en perfils i interacció humana.
 
-#### El “Fedivers” permet:
+## De què està fet el Fedivers?
+
+HAN
+
+## El “Fedivers” permet:
 
 •	Fomentar la sobirania i la independència tecnològica.
 •	Minimitzar que les “Big Tech” (Google, Apple, Facebook, Amazon i Microsoft) siguin les companyies que dominen cada aspecte de les nostres vides.
